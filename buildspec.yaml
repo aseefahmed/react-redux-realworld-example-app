@@ -32,4 +32,4 @@ phases:
 #         ./build/index.html s3://aseef-4132432142
 artifacts:
   files:
-    - '**/*'
+    - 'build/*'
